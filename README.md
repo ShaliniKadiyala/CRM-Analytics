@@ -35,7 +35,7 @@ Designed and developed an interactive CRM dashboard using Power BI, Excel, and S
 - **Skills Applied**: Data analysis, performance measurement, sales prediction, trend evaluation, and market segmentation.
 
 
-## 🌟 Impact & Business Value
+## 🌟 Business Value
 - **✔️ Accurate Sales Forecasting**: Delivered data-driven insights for more precise revenue predictions.
 - **✔️ Smarter Decision-Making**: Empowered strategic planning with real-time lead and opportunity analysis.
 - **✔️ Enhanced Performance Monitoring**: Improved tracking of key business metrics for optimized growth.
